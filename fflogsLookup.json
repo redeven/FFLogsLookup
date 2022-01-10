@@ -3,7 +3,7 @@
   "Name": "FFLogs Lookup",
   "Punchline": "Quickly look up your party members in FFLogs to avoid trap parties",
   "Description": "/fflogs",
-  "InternalName": "fflogsLookup",
+  "InternalName": "FFLogsLookup",
   "ApplicableVersion": "any",
   "Tags": [
     "plugin",
