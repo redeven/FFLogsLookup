@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Redeven",
+    "Name": "FFLogs Lookup",
+    "Punchline": "Quickly look up your party members in FFLogs to avoid trap parties",
+    "Description": "/fflogs",
+    "InternalName": "fflogsLookup",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "fflogs",
+      "parse"
+    ],
+    "RepoUrl": "https://github.com/redeven/FFLogsLookup",
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1641813220,
+    "DownloadLinkInstall": "",
+    "DownloadLinkTesting": "",
+    "DownloadLinkUpdate": ""
+  }
+]

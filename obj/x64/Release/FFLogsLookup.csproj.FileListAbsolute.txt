@@ -1,0 +1,10 @@
+C:\Users\Redeven\AppData\Roaming\XIVLauncher\devPlugins\FFLogsLookup\FFLogsLookup.deps.json
+C:\Users\Redeven\AppData\Roaming\XIVLauncher\devPlugins\FFLogsLookup\FFLogsLookup.dll
+C:\Users\Redeven\AppData\Roaming\XIVLauncher\devPlugins\FFLogsLookup\FFLogsLookup.pdb
+C:\Users\Redeven\source\repos\FFLogsLookup\obj\x64\Release\FFLogsLookup.csproj.AssemblyReference.cache
+C:\Users\Redeven\source\repos\FFLogsLookup\obj\x64\Release\FFLogsLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redeven\source\repos\FFLogsLookup\obj\x64\Release\FFLogsLookup.AssemblyInfoInputs.cache
+C:\Users\Redeven\source\repos\FFLogsLookup\obj\x64\Release\FFLogsLookup.AssemblyInfo.cs
+C:\Users\Redeven\source\repos\FFLogsLookup\obj\x64\Release\FFLogsLookup.csproj.CoreCompileInputs.cache
+C:\Users\Redeven\source\repos\FFLogsLookup\obj\x64\Release\FFLogsLookup.dll
+C:\Users\Redeven\source\repos\FFLogsLookup\obj\x64\Release\FFLogsLookup.pdb
