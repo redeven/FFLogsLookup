@@ -17,8 +17,8 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1641813220,
-    "DownloadLinkInstall": "",
-    "DownloadLinkTesting": "",
-    "DownloadLinkUpdate": ""
+    "DownloadLinkInstall": "https://github.com/redeven/FFLogsLookup/releases/download/release/FFLogsLookup.zip",
+    "DownloadLinkTesting": "https://github.com/redeven/FFLogsLookup/releases/download/release/FFLogsLookup.zip",
+    "DownloadLinkUpdate": "https://github.com/redeven/FFLogsLookup/releases/download/release/FFLogsLookup.zip"
   }
 ]
