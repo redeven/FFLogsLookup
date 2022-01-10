@@ -17,9 +17,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": 1641813220,
-    "DownloadLinkInstall": "https://github.com/redeven/FFLogsLookup/blob/main/Build/FFLogsLookup/latest.zip",
-    "DownloadLinkTesting": "https://github.com/redeven/FFLogsLookup/blob/main/Build/FFLogsLookup/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/redeven/FFLogsLookup/blob/main/Build/FFLogsLookup/latest.zip",
+    "DownloadLinkInstall": "https://github.com/redeven/FFLogsLookup/blob/main/Build/FFLogsLookup/FFLogsLookup/latest.zip?raw=true",
+    "DownloadLinkTesting": "https://github.com/redeven/FFLogsLookup/blob/main/Build/FFLogsLookup/FFLogsLookup/latest.zip?raw=true",
+    "DownloadLinkUpdate": "https://github.com/redeven/FFLogsLookup/blob/main/Build/FFLogsLookup/FFLogsLookup/latest.zip?raw=true",
     "DownloadCount": 0
   }
 ]
