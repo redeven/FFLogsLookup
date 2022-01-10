@@ -16,7 +16,7 @@
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<ProduceReferenceAssembly>false</ProduceReferenceAssembly>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-		<OutputPath>$(AppData)\XIVLauncher\devPlugins\FFLogsLookup</OutputPath>
+		<OutputPath>$(SolutionDir)\Build\FFLogsLookup</OutputPath>
 	</PropertyGroup>
 
 	<PropertyGroup>
