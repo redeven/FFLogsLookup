@@ -2,7 +2,7 @@
   "Author": "Redeven",
   "Name": "FFLogs Lookup",
   "InternalName": "FFLogsLookup",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "/fflogs",
   "ApplicableVersion": "any",
   "Tags": [

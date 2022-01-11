@@ -34,9 +34,9 @@ namespace FFLogsLookup
         private void OnCommand(string command, string args)
         {
             byte partySize = Crossworld.getCrossRealmPartySize();
-            if (partySize > 0)
+            if (partySize > 1)
             {
-                for (int i = 0; i < partySize; i++)
+                for (int i = 1; i < partySize; i++)
                 {
                     (byte HomeWorld, string Name) player = Crossworld.GetCrossRealmPlayer(i);
                     SendUrlToChat(player.Name, player.HomeWorld);

@@ -1,25 +1,25 @@
-[
-  {
-    "Author": "Redeven",
-    "Name": "FFLogs Lookup",
-    "Punchline": "Quickly look up your party members in FFLogs to avoid trap parties",
-    "Description": "/fflogs",
-    "InternalName": "FFLogsLookup",
-    "AssemblyVersion": "1.0.0.0",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "plugin",
-      "fflogs",
-      "parse"
-    ],
-    "RepoUrl": "https://github.com/redeven/FFLogsLookup",
-    "DalamudApiLevel": 5,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdated": 1641813220,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
-    "DownloadCount": 0
-  }
+﻿[
+    {
+        "Author":  "Redeven",
+        "Name":  "FFLogs Lookup",
+        "Punchline":  "Quickly look up your party members in FFLogs to avoid trap parties",
+        "Description":  "/fflogs",
+        "InternalName":  "FFLogsLookup",
+        "AssemblyVersion":  "1.0.0.1",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "plugin",
+                     "fflogs",
+                     "parse"
+                 ],
+        "RepoUrl":  "https://github.com/redeven/FFLogsLookup",
+        "DalamudApiLevel":  5,
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LastUpdated":  1641890692,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/redeven/FFLogsLookup/main/Build/FFLogsLookup/FFLogsLookup/latest.zip",
+        "DownloadCount":  0
+    }
 ]

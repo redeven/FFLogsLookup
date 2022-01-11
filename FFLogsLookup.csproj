@@ -2,10 +2,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<Authors>Redeven</Authors>
-		<Version>1.0.0</Version>
+		<Version>1.0.0.1</Version>
 		<Description>Quickly look up your party members in FFLogs to avoid trap parties</Description>
 		<Copyright>UNLICENSED</Copyright>
-		<PackageProjectUrl>https://github.com/goatcorp/SamplePlugin</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/redeven/FFLogsLookup</PackageProjectUrl>
 	</PropertyGroup>
 
 	<PropertyGroup>
@@ -54,4 +54,8 @@
 			<Private>false</Private>
 		</Reference>
 	</ItemGroup>
+
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+	  <Exec Command="powershell ../../UpdateRepository.ps1" />
+	</Target>
 </Project>
