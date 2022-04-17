@@ -5,6 +5,7 @@
   "Description": "/fflogs",
   "InternalName": "FFLogsLookup",
   "ApplicableVersion": "any",
+  "DalamudApiLevel": 6,
   "Tags": [
     "plugin",
     "fflogs",

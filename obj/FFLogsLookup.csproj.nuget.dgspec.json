@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Redeven\\source\\repos\\FFLogsLookup\\FFLogsLookup.csproj": {
-      "version": "1.0.0.1",
+      "version": "1.0.0.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\Redeven\\source\\repos\\FFLogsLookup\\FFLogsLookup.csproj",
         "projectName": "FFLogsLookup",
@@ -42,7 +42,7 @@
           "dependencies": {
             "DalamudPackager": {
               "target": "Package",
-              "version": "[2.1.5, )"
+              "version": "[2.1.7, )"
             }
           },
           "imports": [

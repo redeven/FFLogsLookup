@@ -13,6 +13,6 @@
     <SourceRoot Include="C:\Users\Redeven\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)dalamudpackager\2.1.5\build\DalamudPackager.props" Condition="Exists('$(NuGetPackageRoot)dalamudpackager\2.1.5\build\DalamudPackager.props')" />
+    <Import Project="$(NuGetPackageRoot)dalamudpackager\2.1.7\build\DalamudPackager.props" Condition="Exists('$(NuGetPackageRoot)dalamudpackager\2.1.7\build\DalamudPackager.props')" />
   </ImportGroup>
 </Project>

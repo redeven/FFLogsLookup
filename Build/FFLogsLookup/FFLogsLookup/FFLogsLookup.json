@@ -2,7 +2,7 @@
   "Author": "Redeven",
   "Name": "FFLogs Lookup",
   "InternalName": "FFLogsLookup",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "/fflogs",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "fflogs",
     "parse"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Quickly look up your party members in FFLogs to avoid trap parties"
 }

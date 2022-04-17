@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0-windows7.0": {
-      "DalamudPackager/2.1.5": {
+      "DalamudPackager/2.1.7": {
         "type": "package",
         "build": {
           "build/DalamudPackager.props": {},
@@ -15,17 +15,17 @@
     }
   },
   "libraries": {
-    "DalamudPackager/2.1.5": {
-      "sha512": "0RMHom/TbYxWzJPTdMOPjuelZY2aacWipp0INPkQrLa31Wy1KAWZ/R/+2sdi02vhk15PthZcpUQqVIwcxprG8A==",
+    "DalamudPackager/2.1.7": {
+      "sha512": "jnZ/sdInyn07ycuWI+pPOtP/xE3v+c4+jYJfDt36FWnBF9NKqkpzfviJtPl/jGLgbaCmFIXu+Yid0N8GvdKefg==",
       "type": "package",
-      "path": "dalamudpackager/2.1.5",
+      "path": "dalamudpackager/2.1.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/DalamudPackager.props",
         "build/DalamudPackager.targets",
         "buildMultiTargeting/DalamudPackager.props",
-        "dalamudpackager.2.1.5.nupkg.sha512",
+        "dalamudpackager.2.1.7.nupkg.sha512",
         "dalamudpackager.nuspec",
         "tasks/net48/DalamudPackager.dll",
         "tasks/net48/Newtonsoft.Json.dll",
@@ -38,14 +38,14 @@
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "DalamudPackager >= 2.1.5"
+      "DalamudPackager >= 2.1.7"
     ]
   },
   "packageFolders": {
     "C:\\Users\\Redeven\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\Redeven\\source\\repos\\FFLogsLookup\\FFLogsLookup.csproj",
       "projectName": "FFLogsLookup",
@@ -82,7 +82,7 @@
         "dependencies": {
           "DalamudPackager": {
             "target": "Package",
-            "version": "[2.1.5, )"
+            "version": "[2.1.7, )"
           }
         },
         "imports": [

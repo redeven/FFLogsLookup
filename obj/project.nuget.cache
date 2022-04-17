@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BKqFn0u8KVCoedidux7zCseyuHshzP9MZAz0uPv9+94bJVFGpqYc1ogIqjbDBBaVfd0gOl0OT7yc6bQQn73dJw==",
+  "dgSpecHash": "wbcm34Dlr0YvDdcCp5p5Vc7XLpQT7VAxjxtgGSBuGZsyAfmrpr1Hit/S3jNOiq1fnva1oTF+kwcKmhdnQ+J7HQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Redeven\\source\\repos\\FFLogsLookup\\FFLogsLookup.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Redeven\\.nuget\\packages\\dalamudpackager\\2.1.5\\dalamudpackager.2.1.5.nupkg.sha512",
+    "C:\\Users\\Redeven\\.nuget\\packages\\dalamudpackager\\2.1.7\\dalamudpackager.2.1.7.nupkg.sha512",
     "C:\\Users\\Redeven\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Redeven\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Redeven\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"

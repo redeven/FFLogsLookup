@@ -2,7 +2,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<Authors>Redeven</Authors>
-		<Version>1.0.0.1</Version>
+		<Version>1.0.0.2</Version>
 		<Description>Quickly look up your party members in FFLogs to avoid trap parties</Description>
 		<Copyright>UNLICENSED</Copyright>
 		<PackageProjectUrl>https://github.com/redeven/FFLogsLookup</PackageProjectUrl>
@@ -24,7 +24,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="DalamudPackager" Version="2.1.5" />
+		<PackageReference Include="DalamudPackager" Version="2.1.7" />
 		<Reference Include="FFXIVClientStructs">
 			<HintPath>$(DalamudLibPath)FFXIVClientStructs.dll</HintPath>
 			<Private>false</Private>

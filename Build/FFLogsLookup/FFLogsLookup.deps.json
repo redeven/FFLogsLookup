@@ -6,29 +6,29 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "FFLogsLookup/1.0.0.1": {
+      "FFLogsLookup/1.0.0.2": {
         "dependencies": {
-          "DalamudPackager": "2.1.5"
+          "DalamudPackager": "2.1.7"
         },
         "runtime": {
           "FFLogsLookup.dll": {}
         }
       },
-      "DalamudPackager/2.1.5": {}
+      "DalamudPackager/2.1.7": {}
     }
   },
   "libraries": {
-    "FFLogsLookup/1.0.0.1": {
+    "FFLogsLookup/1.0.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "DalamudPackager/2.1.5": {
+    "DalamudPackager/2.1.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0RMHom/TbYxWzJPTdMOPjuelZY2aacWipp0INPkQrLa31Wy1KAWZ/R/+2sdi02vhk15PthZcpUQqVIwcxprG8A==",
-      "path": "dalamudpackager/2.1.5",
-      "hashPath": "dalamudpackager.2.1.5.nupkg.sha512"
+      "sha512": "sha512-jnZ/sdInyn07ycuWI+pPOtP/xE3v+c4+jYJfDt36FWnBF9NKqkpzfviJtPl/jGLgbaCmFIXu+Yid0N8GvdKefg==",
+      "path": "dalamudpackager/2.1.7",
+      "hashPath": "dalamudpackager.2.1.7.nupkg.sha512"
     }
   }
 }
